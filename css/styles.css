@@ -1,0 +1,14 @@
+
+p{
+    color: brown;
+}
+
+section{
+    width: 300px;
+    min-height: 200px;
+    border: 2px solid green;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+
