@@ -1,14 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+body{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+}
+
+.hero-section{
+    border: 2px solid green;
+    height: 604px;
+    background-image: url("../images/nature-image.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-heading, p{
+    color: #14203E;
+    text-align: center;
+    width: 600px;
+    margin: 0px auto;
+}
+
+
+.main-heading{
+    font-size: 66px;
+    margin-top: 100px;
+}
 
 p{
-    color: brown;
+    font-size: 22px;
 }
-
-section{
-    width: 300px;
-    min-height: 200px;
-    border: 2px solid green;
-    border-radius: 8px;
-    padding: 20px;
-}
-
-
